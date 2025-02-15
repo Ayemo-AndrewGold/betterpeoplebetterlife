@@ -39,7 +39,18 @@ a {
 }
 
 .btn.dark-btn {
-    background: #1a2268;
+    background: rgb(32, 93, 110);
     color: #fff;
 
+}
+
+/* -----------Media Quary------- */
+@media (max-width: 1200px){
+    .container {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .btn {
+        padding: 14px 22px;
+    }
 }

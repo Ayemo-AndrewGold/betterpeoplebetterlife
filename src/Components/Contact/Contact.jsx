@@ -16,7 +16,7 @@ const Contact = () => {
                 to our service community. 
             </p>
             <ul>
-                <li><img src={email_icon} alt="" />ayemoandrewgold@gmail.com  </li>
+                <li><img src={email_icon} alt="" />betterpeoplebetterlife@gmail.com  </li>
                 <li><img src={phone_icon} alt="" />+234 8124106188  </li>
                 <li><img src={location_icon} alt="" />44, Damingoro street, Mushin <br /> Lagos, Nigeria  </li>
             </ul>

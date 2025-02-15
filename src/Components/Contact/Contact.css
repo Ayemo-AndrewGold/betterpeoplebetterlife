@@ -1,5 +1,5 @@
 .contact {
-    margin: 80% auto;
+    margin: 80px auto;
     max-width: 90%;
     display: flex;
     align-items: center;
@@ -56,4 +56,15 @@
 .contact-col span {
     display: block;
     margin: 20px 0;
+}
+
+/* -----------------Media Quare----------- */
+@media (max-width: 700px){
+ .contact {
+    display: block;
+ }
+
+ .contact-col {
+    padding: 20px;
+ } 
 }

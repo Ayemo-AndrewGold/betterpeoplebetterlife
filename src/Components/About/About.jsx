@@ -2,12 +2,12 @@ import React from 'react'
 import './About.css'
 import about_img from '../../assets/team1.jpg'
 import play_icon from '../../assets/play_icon.png'
-const About = () => {
+const About = ({setPlayState}) => {
   return (
     <div className='about'>
         <div className="about-left">
             <img src={about_img} alt=""className='about_img' />
-            <img src={play_icon} alt="" className='play_icon' />
+            <img src={play_icon} alt="" className='play_icon' onClick={()=>{setPlayState(true)}} />
         </div>
         <div className="about-right">
             <h2>ABout Bank</h2>
