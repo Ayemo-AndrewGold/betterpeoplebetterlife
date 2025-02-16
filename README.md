@@ -1,12 +1,12 @@
 
-# TechBridge Instagram Clone Project
+# BetterPeople BetterLife Website
 
 ![Project Banner Placeholder](./src/assets/bank-app2.png)
 
 
 ## About the Project
 
-This repository contains the frontend capstone project for the **Techbridge Program**. The project is a clone of Instagram's **post and profile pages**, built with **React**, **JavaScript**, and **CSS**. 
+This repository contains the frontend capstone project for the **Better People BetterLife **. **The website is **, built with **React**, **JavaScript**, and **CSS**. 
 
 The goal of this project was to learn and apply frontend development skills by creating a functional social media clone. 
 
@@ -25,7 +25,7 @@ The goal of this project was to learn and apply frontend development skills by c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/instagram-clone.git
+   git clone https://github.com/yourusername/betterpeoplebetterlife.git
    ```
 
 2. Navigate to the project directory:
